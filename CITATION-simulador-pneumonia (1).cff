@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Se você usar este software, por favor cite-o como abaixo."
+title: "Simulador de Pneumonia Bacteriana"
+abstract: "Modelo didático em Python (equações diferenciais) da evolução de uma infecção bacteriana pulmonar com e sem antibiótico, que gera gráficos e dados da simulação. Projeto de estudo e portfólio em bioinformática; não destinado a uso clínico."
+type: software
+authors:
+  - family-names: "Oliveira"
+    given-names: "Taciane de Almeida"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+version: "1.0.0"
+date-released: "2026-11-03"
+license: MIT
+keywords:
+  - bioinformática
+  - biologia computacional
+  - pneumonia bacteriana
+  - modelagem matemática
+  - educação
+repository-code: "https://github.com/COLE-SEU-USUARIO/COLE-NOME-DO-REPOSITORIO"
